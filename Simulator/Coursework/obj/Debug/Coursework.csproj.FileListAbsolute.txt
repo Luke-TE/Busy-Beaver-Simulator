@@ -1,0 +1,151 @@
+N:\Computing\Coursework Documentation\Coursework\Coursework\bin\Debug\Coursework.exe.config
+N:\Computing\Coursework Documentation\Coursework\Coursework\bin\Debug\Coursework.exe
+N:\Computing\Coursework Documentation\Coursework\Coursework\bin\Debug\Coursework.pdb
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.exe
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.pdb
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.frmCustomBeaver.resources
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.frmDatabaseBeaver.resources
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.frmExecuteBeaver.resources
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.frmMainMenu.resources
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.frmShowResults.resources
+N:\Computing\Coursework Documentation\Coursework\Coursework\obj\Debug\Coursework.frmStopMenu.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.frmCustomBeaver.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.frmDatabaseBeaver.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.frmExecuteBeaver.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.frmMainMenu.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.frmShowResults.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.frmStopMenu.resources
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Luke\Documents\GitHub\Coursework\Coursework\Coursework\obj\Debug\Coursework.pdb
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\bin\Debug\Coursework.exe.config
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.exe
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\bin\Debug\Coursework.exe
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\bin\Debug\Coursework.pdb
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.FrmCustomBeaver.resources
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.FrmDatabaseBeaver.resources
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.FrmExecuteBeaver.resources
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.FrmMainMenu.resources
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.FrmShowResults.resources
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.FrmStopMenu.resources
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+N:\Computing\Coursework Documentation\Coursework-master\Coursework-master\Coursework\Coursework\obj\Debug\Coursework.pdb
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.exe.config
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.exe
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.pdb
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.exe
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.pdb
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmCustomBeaver.resources
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmDatabaseBeaver.resources
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmExecuteBeaver.resources
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmMainMenu.resources
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmShowResults.resources
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmStopMenu.resources
+N:\Computing\Coursework\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmCustomBeaver.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmDatabaseBeaver.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmExecuteBeaver.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmMainMenu.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmShowResults.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmStopMenu.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmCustomBeaver.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmDatabaseBeaver.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmExecuteBeaver.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmMainMenu.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmShowResults.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.FrmStopMenu.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Coursework.exe
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmCustomBeaver.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmDatabaseBeaver.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmExecuteBeaver.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmMainMenu.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmShowResults.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmStopMenu.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.exe
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.pdb
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmCustomBeaver.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmDatabaseBeaver.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmExecuteBeaver.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmMainMenu.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmPictureMessage.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmShowResults.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmStopMenu.resources
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.csproj.GenerateResource.Cache
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Coursework.exe
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Coursework.pdb
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\mysql.data.dll
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.exe
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.pdb
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\MySql.Data.xml
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.csprojResolveAssemblyReference.cache
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.FrmPictureMessage.resources
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Autofac.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Facebook.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Nito.AsyncEx.Context.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Nito.AsyncEx.Tasks.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Nito.Disposables.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\RedditSharp.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\System.Net.Http.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\System.Reflection.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\System.Reflection.TypeExtensions.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.Controllers.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.Core.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.Credentials.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.Factories.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.Logic.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.Security.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.Streams.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Tweetinvi.WebLogic.dll
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Autofac.xml
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Facebook.xml
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Nito.AsyncEx.Context.xml
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Nito.AsyncEx.Tasks.xml
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Nito.Disposables.xml
+C:\Users\Luke\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\RedditSharp.xml

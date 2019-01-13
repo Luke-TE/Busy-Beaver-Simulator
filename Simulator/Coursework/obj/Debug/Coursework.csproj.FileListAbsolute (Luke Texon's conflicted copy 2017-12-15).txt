@@ -1,0 +1,3 @@
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.exe
+C:\Users\A7951\Dropbox\A7951 Luke T\Coursework documentation\Technical Solution\Coursework\obj\Debug\Coursework.pdb
