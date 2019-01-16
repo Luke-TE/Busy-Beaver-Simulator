@@ -7,4 +7,5 @@ o	Produces bitmap representations of the movements of the Turing machine.
 
 o	Uses REST API’s to upload results to social media such as Facebook.
 
-# THIS PROGRAM IS CURRENTLY DATABASE-RELIANT. IT WILL NOT WORK WITHOUT THE CORRECT DATABASE. 
+# THIS PROGRAM IS CURRENTLY DATABASE-RELIANT. 
+# IT WILL NOT WORK WITHOUT THE CORRECT DATABASE. 
